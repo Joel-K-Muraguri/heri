@@ -21,4 +21,5 @@ Visit the website and have a look at it's documentation.
 3. Hilt - For Dependency Injection
 4. Coil - For Image Loading and Caching
 5. Retrofit - For Network Calls
-6. Room - For Caching Network Reques
+6. Room - For Caching Network Request
+7. Paging 3 - For loading and Paging data

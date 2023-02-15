@@ -1,4 +1,4 @@
-package com.joel.heri.ui.theme
+package com.joel.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

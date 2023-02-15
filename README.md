@@ -9,7 +9,7 @@ this will include mapping and caching using the TMDB API
 
 ## Setup Project
 
-You will be required to generate an API Key to be used in making the network calls. 
+You will be required to have an API Key to be used in making the network calls. 
 Visit the website and have a look at it's documentation.
 - [TMDB API](https://www.themoviedb.org/documentation/api)
   > Movie Database

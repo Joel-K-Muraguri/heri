@@ -1,6 +1,6 @@
-# heri
+# HERI
 
-# heri 🔥🔨
+# Heri 🔥🔨
 
 This an Android app on Multi-Module architecture 
 
